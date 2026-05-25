@@ -1,12 +1,9 @@
 import "./projectone.css";
 import C from "../img/_UNRULY_/PATRICK_ILYAS.JPG";
-import D from "../img/cup.jpg";
 import E from "../img/_UNRULY_/PATRICK_LONE.JPG";
 import F from "../img/_UNRULY_/DK.JPEG";
 import React from "react";
-import { Link } from "react-router-dom";
-import Projects from './Projects';
-import Third from "../Third/Third";
+
 
 
 const ProjectOne = () => {
