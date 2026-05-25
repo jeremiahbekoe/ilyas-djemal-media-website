@@ -26,8 +26,9 @@ const Third = () => {
           <p className="digi">West London based.</p>
           <h1 className="get-in">Contact me:</h1>
       </div>
-      <a href="" className="credit">@imdjemal  &nbsp; &nbsp;   &nbsp; &nbsp;   &nbsp; &nbsp;Instagram/TikTok</a>
-      <a href="https://www.jeremiahbekoe.com" className="credit-2" target="_blank" rel="noopenner">Created by Jeremiah Bekoe. </a>
+      <a 
+      href="https://instagram.com/imdjemal" className="credit">@imdjemal  &nbsp; &nbsp;   &nbsp; &nbsp;   &nbsp; &nbsp;Instagram/TikTok</a>
+      <a href="https://www.jeremiahbekoe.com" className="credit-2" target="_blank" rel="norefferer noopener">Created by Jeremiah Bekoe. </a>
   </div>;
 };
 

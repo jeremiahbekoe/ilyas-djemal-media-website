@@ -1,8 +1,6 @@
 import "./home.css";
-import A from "../img/bg.mp4";
 
 import React from "react";
-import { Link } from "react-router-dom";
 
 import First from "../First/First";
 import Second from "../Second/Second";

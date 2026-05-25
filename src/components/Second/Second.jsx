@@ -126,7 +126,7 @@ That I need not need anyone but myself.
         </p> */}
 
       </div>
-      <div className="oval">
+      {/* <div className="oval">
       <lottie-player
         autoplay
         loop
@@ -134,7 +134,7 @@ That I need not need anyone but myself.
         src="https://assets2.lottiefiles.com/packages/lf20_avndu8kw.json"
         >
     </lottie-player>
-      </div>
+      </div> */}
   </div>;
 };
 
