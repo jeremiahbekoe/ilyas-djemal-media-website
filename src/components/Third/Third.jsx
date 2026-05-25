@@ -28,7 +28,7 @@ const Third = () => {
       </div>
       <a 
       href="https://instagram.com/imdjemal"  target="_blank" rel="noopener noreferrer" className="credit">@imdjemal  &nbsp; &nbsp;   &nbsp; &nbsp;   &nbsp; &nbsp;Instagram/TikTok</a>
-      <a href="https://www.jeremiahbekoe.com"  target="_blank" rel="noopener noreferrer" className="credit-2" target="_blank" rel="norefferer noopener">Created by Jeremiah Bekoe. </a>
+      <a href="https://www.jeremiahbekoe.com" target="_blank" rel="noopener noreferrer" className="credit-2">Created by Jeremiah Bekoe. </a>
   </div>;
 };
 
